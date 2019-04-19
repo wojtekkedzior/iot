@@ -19,8 +19,8 @@
 #define BME280_ADD 0x76
 
 /* Set these to your desired credentials. */
-const char *ssid = "hogfather";  //ENTER YOUR WIFI SETTINGS
-const char *password = "karina23";
+const char *ssid = "";  //ENTER YOUR WIFI SETTINGS
+const char *password = "";
  
 //Web/Server address to read/write from 
 const char *host = "192.168.1.24";   //https://circuits4you.com website or IP address of server
